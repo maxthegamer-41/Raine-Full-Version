@@ -237,3 +237,6 @@ This repository serves as the official landing page for Raine. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Raine today!**
+
+---
+**Last updated:** 2026-09-11 06:56:35 UTC
