@@ -239,4 +239,4 @@ This repository serves as the official landing page for Raine. The software is d
 **Get the most recent version of Raine today!**
 
 ---
-**Last updated:** 2026-10-14 11:03:48 UTC
+**Last updated:** 2026-10-14 20:24:27 UTC
